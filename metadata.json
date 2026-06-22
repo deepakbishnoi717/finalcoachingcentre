@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Academy",
+  "description": "An elite EdTech platform and admissions board for Vanguard Academy coaching institute, with smart bento landing templates, real-time AI Academic counseling, and n8n webhooks integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
